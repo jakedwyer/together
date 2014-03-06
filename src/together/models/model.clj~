@@ -1,3 +1,0 @@
-(ns together.models.model
-  (:require [monger.core :as mc]
-            [monger.collection :as mongo]))
